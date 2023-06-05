@@ -144,6 +144,8 @@ class _SignInDemoState extends State<SignInDemo> {
     }
   }
 
+
+
   // Prompts the user to authorize `scopes`.
   //
   // This action is **required** in platforms that don't perform Authentication
